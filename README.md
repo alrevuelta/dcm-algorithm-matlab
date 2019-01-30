@@ -10,7 +10,7 @@ The Matlab implementation has been tested and verified against the C implementat
  
  
 <p align="center">
-  <img src="https://github.com/alrevuelta/Matlab-DCM-Implementation/blob/master/img/matlab_vs_c.png">
+  <img src="https://github.com/alrevuelta/dcm-implementation/blob/master/img/matlab_vs_c.png">
 </p>
 
 # References
